@@ -1,8 +1,6 @@
 # hotel_search_app
 
-A new Flutter UI project for hotel searching.
-
-# Flutter Socket.IO one to one chat app demo with Nodejs server
+# A new Flutter UI project for hotel searching.
 
 <div align="center">
   
